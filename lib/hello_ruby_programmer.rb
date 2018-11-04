@@ -4,4 +4,4 @@ end
 
 
 
-greeting(name)
+greeting
