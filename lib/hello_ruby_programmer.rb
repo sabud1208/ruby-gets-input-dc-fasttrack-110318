@@ -2,6 +2,6 @@ def greeting(name)
   puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
 end
 
-name= gets.chomps
+name= gets.strip
 
 greeting(name)
